@@ -6,4 +6,4 @@
 | [ClaudeCode 官方教程](https://anthropic.skilljar.com/claude-code-in-action) | [ClaudeCode 13个技巧](https://zhuanlan.zhihu.com/p/1990933446814623364) |
 
 #### 免费资源 
-| [NVIDIA 免费GLM/MiniMax](https://zhuanlan.zhihu.com/p/1991724330300753044)
+| [NVIDIA 免费GLM/MiniMax](https://zhuanlan.zhihu.com/p/1991724330300753044) |
