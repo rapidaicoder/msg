@@ -1,5 +1,5 @@
 #### 工具技巧
-| [Claude 技巧集](cc_tips.md)|  [怎样使用团队模式](https://code.claude.com/docs/zh-CN/agent-teams) |
+| [Claude 技巧集](cc_tips.md)|  [怎样使用ClaudeCode团队模式](https://code.claude.com/docs/zh-CN/agent-teams) |
 #### 视频教学
 | [本程序入门](https://www.bilibili.com/video/BV1wmvoBnEF1) ｜[Claude Code完整教程](https://www.bilibili.com/video/BV1LJs3ziE6y) ｜[Claude Skills教程](https://www.bilibili.com/video/BV1cGigBQE6n) ｜
 
